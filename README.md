@@ -1,2 +1,0 @@
-# insane-code
-new repo
